@@ -537,23 +537,7 @@ sudo apt install pandoc wkhtmltopdf -y
 ```bash
 pandoc investor.md -o investor.pdf
 ```
-
 ---
-
-## 🌐 Push to GitHub
-
-```bash
-git init
-git add .
-git commit -m "Initial investor dossier"
-git branch -M main
-git remote add origin https://github.com/USERNAME/REPO.git
-git push -u origin main
-```
-
----
-
-# 🏁 Closing Statement
 
 <div align="center">
 
