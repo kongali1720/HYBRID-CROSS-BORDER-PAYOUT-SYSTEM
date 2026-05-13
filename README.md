@@ -28,7 +28,6 @@
 
 <br>
 
-# 🚀 INVESTOR TECHNICAL DOSSIER
 ### *Version 1.0 — Institutional Presentation & Due Diligence Ready*
 
 </div>
